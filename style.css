@@ -39,22 +39,13 @@ h3 {
   
 /*   Margin-left: 280px;  */
 }
-.iam {
-  text-align: center;
-  justify-content: center;
-align-items: center;
-  width: 100%;
-  
-}
-.containerp {
-  text-align: center;
-}
+
 .topic {
   text-align: center;
 }
 .image-circle {
   border-radius: 50%;
-  border-radius: 2px solid #003049;
+  border: 2px solid #003049;
 /*   border-color: #003049; */
 }
 
