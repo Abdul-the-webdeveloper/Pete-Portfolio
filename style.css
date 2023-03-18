@@ -12,10 +12,11 @@ nav {
   justify-content: center;
   text-align: center;
   text-decoration: none;
-  padding: 50px;
+  
 }
 a:link {
  color: #d62828;
+  padding: 50px;
 }
 
 a:hover {
